@@ -3,7 +3,7 @@ nclude "main.h"
 void print_buffer(char buffer[], int *buff_ind);
 
 /**
- * _printf - print function
+ * _printf - useable print function
  * @format: format
  * Return: Printed chars
  */
