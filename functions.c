@@ -4,7 +4,7 @@
  * print_char - prints a char
  * @types: list of arguements
  * @buffer: buffer array to handle print
- * @flags: calculates active flags
+ * @flags: calculates active flags in the code
  * @width: width
  * @precision: precision specification
  * @size: size specifier
