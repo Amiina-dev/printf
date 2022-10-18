@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * get_width - Calculates the width for printing
+ * get_width - Calculates the width for printing after code execution
  * @format: Formatted string in which to print the arguments.
  * @i: List of arguments to be printed.
  * @list: list of arguments.
